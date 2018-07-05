@@ -17,3 +17,6 @@ This is a simple web project
 ## How to contribute
 
 Please fork thi repository and tehn issue Pull Requests for review.
+
+### Copyright
+All rights reserved
