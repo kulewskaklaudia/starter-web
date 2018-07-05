@@ -15,3 +15,5 @@ Sample website with plenty of files for demos - an example
 This is a simple web project
 
 ## How to contribute
+
+Please fork thi repository and tehn issue Pull Requests for review.
