@@ -15,3 +15,5 @@ Sample website with plenty of files for demos - an example
 This is a simple web project
 
 ## How to contribute
+
+2018 Git.Training
